@@ -2,7 +2,6 @@ package main // https://stepik.org/lesson/232593/step/7
 
 import "fmt"
 
-// По данному трехзначному числу определите, все ли его цифры различны.
 func conditionalConstructs_3(a int) int {
 	if a < 10 {
 		return a
