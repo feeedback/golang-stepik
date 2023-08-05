@@ -6,7 +6,7 @@ import (
 )
 
 func Test(t *testing.T) {
-	const name = "exercises1"
+	const name = "exercises2"
 
 	type args struct {
 		a int16
@@ -26,7 +26,7 @@ func Test(t *testing.T) {
 
 		t.Run(fmt.Sprintf("%v args:%v", name, tt.args), func(t *testing.T) {
 
-			if got := exercises1(tt.args.a); got != tt.want {
+			if got := exercises2(tt.args.a); got != tt.want {
 				t.Errorf("= %v, but want %v", got, tt.want)
 			}
 		})

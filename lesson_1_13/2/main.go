@@ -3,7 +3,7 @@ package main
 
 import "fmt"
 
-func exercises1(n int16) int16 {
+func exercises2(n int16) int16 {
 	var a, b, c int16
 	a = n / 100
 	b = n / 10 % 10
@@ -16,5 +16,5 @@ func main() {
 	var a int16 // натуральное трехзначное число, не оканчивающееся на ноль.
 	fmt.Scan(&a)
 
-	fmt.Println(exercises1(a))
+	fmt.Println(exercises2(a))
 }
