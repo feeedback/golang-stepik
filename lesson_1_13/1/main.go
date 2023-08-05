@@ -3,7 +3,6 @@ package main
 
 import "fmt"
 
-// По данному трехзначному числу определите, все ли его цифры различны.
 func exercises1(n int16) int16 {
 	var a, b, c int16
 	a = n / 100
