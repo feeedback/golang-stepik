@@ -6,7 +6,7 @@ import (
 )
 
 func Test(t *testing.T) {
-	const name = "exercises_2_3"
+	const name = "exercises3"
 
 	type args struct {
 		a, b, c int
