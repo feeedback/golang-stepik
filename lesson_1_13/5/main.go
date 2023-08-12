@@ -12,7 +12,6 @@ func exercises5(a, b, c int) string {
 		return "Существует"
 	}
 	return "Не существует"
-
 }
 
 func main() {

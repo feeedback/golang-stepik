@@ -24,7 +24,6 @@ func exercises4(a, b, c float64) string {
 		return "Прямоугольный"
 	}
 	return "Непрямоугольный"
-
 }
 
 func main() {

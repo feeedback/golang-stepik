@@ -14,7 +14,6 @@ func conditionalConstructs_3(a int) int {
 	} else {
 		return a / 10000
 	}
-
 }
 
 func main() {
