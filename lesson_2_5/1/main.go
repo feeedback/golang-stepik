@@ -17,6 +17,7 @@ func exercises1(text string) string {
 
 func main() {
 	text, _ := bufio.NewReader(os.Stdin).ReadString('\n')
+	text = strings.TrimSpace(text)
 
 	fmt.Println(exercises1(text))
 }
