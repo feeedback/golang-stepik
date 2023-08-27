@@ -1,4 +1,4 @@
-package main
+package main // https://stepik.org/lesson/360357/step/7
 
 import "fmt"
 
