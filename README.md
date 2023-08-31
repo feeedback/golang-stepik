@@ -44,3 +44,5 @@
 8. Параллелизм ч.1 [4/4](lesson_3_8/)
 9. Параллелизм ч.2 [6/6](lesson_3_9/)
 10. Заключение
+
+[![Cerftificate](https://github.com/feeedback/golang-stepik/assets/40729862/2d9ec074-e964-42b5-b196-ba6c5d1d3ad4)](https://stepik.org/cert/2157388)
