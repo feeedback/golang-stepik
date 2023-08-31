@@ -2,7 +2,7 @@
 
 [Курс "Программирование на Golang" на Stepik](https://stepik.org/course/54403/syllabus)
 
-[![wakatime](https://wakatime.com/badge/github/feeedback/golang-stepik.svg)](https://wakatime.com/badge/github/feeedback/golang-stepik)
+[![wakatime](https://wakatime.com/badge/user/b9f860bf-3367-4c77-b755-9d73b4801f3a/project/2cab9886-9420-41e3-9f4a-e5ceed5ff8f0.svg)](https://wakatime.com/badge/user/b9f860bf-3367-4c77-b755-9d73b4801f3a/project/2cab9886-9420-41e3-9f4a-e5ceed5ff8f0)
 
 ## Содержание
 
